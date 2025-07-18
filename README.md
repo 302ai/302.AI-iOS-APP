@@ -9,7 +9,7 @@
 <em>302.AI is a powerful AI intelligent chat application that opens up a new conversational experience for you. We have brought together mainstream top AI models including Deepseek, Qwen, Kimi K2 and more, allowing you to enjoy cutting-edge AI technology in one place.</em>
 </p>
 
-<p align="center"><a href="https://302.ai/" target="blank"><img src="https://file.302.ai/gpt/imgs/github/20250102/72a57c4263944b73bf521830878ae39a.png" /></a></p >
+<p align="center"><a href="https://apps.apple.com/us/app/302-ai/id6744959746" target="blank"><img src="https://file.302.ai/gpt/imgs/20250718/compressed_54de538f74f24551ba4004f65756ddfb.jpeg" /></a></p >
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
