@@ -13,7 +13,7 @@
 
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
-![](docs/302.AI-iOS-APP.png)
+![](docs/302.AI-iOS-APP-en.png)
 
 ## 🌟 Key Features
 
