@@ -11,9 +11,17 @@
 
 <p align="center"><a href="https://apps.apple.com/us/app/302-ai/id6744959746" target="blank"><img src="https://file.302.ai/gpt/imgs/20250718/compressed_54de538f74f24551ba4004f65756ddfb.jpeg" /></a></p >
 
+<div align="center">
+
+[![ウェブサイト](https://img.shields.io/badge/ウェブサイト-302.ai-blue.svg)](https://302.ai)
+[![GitHub](https://img.shields.io/badge/GitHub-302.AI--iOS--APP-black.svg)](https://github.com/302ai/302.AI-iOS-APP)
+[![メール](https://img.shields.io/badge/メール-support@302.ai-red.svg)](mailto:support@302.ai)
+
+</div>
+
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
-![](docs/302.AI-iOS-APP.png)
+![](docs/302.AI-iOS-APP-jp.png)
 
 ## 🌟 主な特徴
 
@@ -101,18 +109,6 @@ open Chat302AI.xcodeproj
 - **インターネット検索**: リアルタイム情報の取得
 - **ディープサーチ**: より包括的な情報検索
 - **推論モード**: R1思考チェーン推論
-
-## 💬 お問い合わせ
-
-<div align="center">
-
-[![ウェブサイト](https://img.shields.io/badge/ウェブサイト-302.ai-blue.svg)](https://302.ai)
-[![GitHub](https://img.shields.io/badge/GitHub-302.AI--iOS--APP-black.svg)](https://github.com/302ai/302.AI-iOS-APP)
-[![メール](https://img.shields.io/badge/メール-support@302.ai-red.svg)](mailto:support@302.ai)
-
-**問題がありますか？** [GitHub Issues](https://github.com/302ai/302.AI-iOS-APP/issues) で報告してください
-
-</div>
 
 ## 📄 ライセンス
 
