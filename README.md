@@ -11,6 +11,14 @@
 
 <p align="center"><a href="https://apps.apple.com/us/app/302-ai/id6744959746" target="blank"><img src="https://file.302.ai/gpt/imgs/20250718/compressed_54de538f74f24551ba4004f65756ddfb.jpeg" /></a></p >
 
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-302.ai-blue.svg)](https://302.ai)
+[![GitHub](https://img.shields.io/badge/GitHub-302.AI--iOS--APP-black.svg)](https://github.com/302ai/302.AI-iOS-APP)
+[![Email](https://img.shields.io/badge/Email-support@302.ai-red.svg)](mailto:support@302.ai)
+
+</div>
+
 <p align="center"><a href="README_zh.md">中文</a> | <a href="README.md">English</a> | <a href="README_ja.md">日本語</a></p>
 
 ![](docs/302.AI-iOS-APP-en.png)
@@ -101,18 +109,6 @@ open Chat302AI.xcodeproj
 - **Internet Search**: Get real-time information
 - **Deep Search**: More comprehensive information retrieval
 - **Reasoning Mode**: R1 chain-of-thought reasoning
-
-## 💬 Contact Us
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-302.ai-blue.svg)](https://302.ai)
-[![GitHub](https://img.shields.io/badge/GitHub-302.AI--iOS--APP-black.svg)](https://github.com/302ai/302.AI-iOS-APP)
-[![Email](https://img.shields.io/badge/Email-support@302.ai-red.svg)](mailto:support@302.ai)
-
-**Having issues?** Please report them in [GitHub Issues](https://github.com/302ai/302.AI-iOS-APP/issues)
-
-</div>
 
 ## 📄 License
 
